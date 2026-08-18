@@ -1,1 +1,8 @@
-﻿---\ntitle: "Data Analysis R"\noutput: html_document\n---\n\n# Analysis Placeholder
+﻿---
+title: "Data Analysis R"
+output: html_document
+---
+
+# Sample Analysis
+
+This RMarkdown demonstrates a simple plot and summary.
